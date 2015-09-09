@@ -1,0 +1,2 @@
+module ChocosHelper
+end
