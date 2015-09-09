@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :chocos
+  resources :posts
 
-  root 'chocos#index'
+  root 'posts#index'
 end
